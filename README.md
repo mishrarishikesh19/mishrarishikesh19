@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishrarishikesh19&label=Profile%20views&color=0e75b6&style=flat" alt="mishrarishikesh19" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT**
+- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, React.js, Node.js, MongoDb**
 
 - 📫 How to reach me **rk6013471@gmail.com**
 
